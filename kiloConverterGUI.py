@@ -1,7 +1,4 @@
-# Create a Python tkinter GUI for calculating mileage in miles per gallon after a road trip.
-# Your GUI should enable a user to enter the gallons used and the miles driven after the drive.
-# Design and layout are up to you.
-# Clicking a button should display the mileage in mpg right in the GUI, not in a new popup window.
+
 import tkinter
 class KiloConverterGUI:
     def __init__(self):
